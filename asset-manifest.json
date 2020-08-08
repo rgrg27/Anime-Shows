@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Anime-Shows/static/css/main.e9deb4a6.chunk.css",
+    "main.js": "/Anime-Shows/static/js/main.9de013f3.chunk.js",
+    "main.js.map": "/Anime-Shows/static/js/main.9de013f3.chunk.js.map",
+    "runtime-main.js": "/Anime-Shows/static/js/runtime-main.56c3bc0f.js",
+    "runtime-main.js.map": "/Anime-Shows/static/js/runtime-main.56c3bc0f.js.map",
+    "static/js/2.c987a206.chunk.js": "/Anime-Shows/static/js/2.c987a206.chunk.js",
+    "static/js/2.c987a206.chunk.js.map": "/Anime-Shows/static/js/2.c987a206.chunk.js.map",
+    "index.html": "/Anime-Shows/index.html",
+    "precache-manifest.ab699c4f12ec2ffab804c19149d11524.js": "/Anime-Shows/precache-manifest.ab699c4f12ec2ffab804c19149d11524.js",
+    "service-worker.js": "/Anime-Shows/service-worker.js",
+    "static/css/main.e9deb4a6.chunk.css.map": "/Anime-Shows/static/css/main.e9deb4a6.chunk.css.map",
+    "static/js/2.c987a206.chunk.js.LICENSE.txt": "/Anime-Shows/static/js/2.c987a206.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56c3bc0f.js",
+    "static/js/2.c987a206.chunk.js",
+    "static/css/main.e9deb4a6.chunk.css",
+    "static/js/main.9de013f3.chunk.js"
+  ]
+}
